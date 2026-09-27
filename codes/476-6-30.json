@@ -3898,6 +3898,7 @@
    "@diogoff"
   ],
   "construction": "Periodic bivariate-bicycle on Z_17 x Z_14; A={(5,0),(9,13),(9,2)}, B={(10,13),(6,10),(5,11)}; H_X=[A|B], H_Z=[B^T|A^T].",
+   "model": "GPT-6 Luna",
   "origin": "submission",
   "date": "2026-09-27",
    "notes": "Both X and Z weight-30 logicals were recovered by verify/ris_gpu.py at 5,000,000 trials per side (seed 20260930, pair depth 8) and independently CPU-verified. Distance is a witness-backed upper bound. The pre-promotion validator found no exact duplicate or WL-equivalent board entry; broader construction equivalence and literature novelty are unverified.",
