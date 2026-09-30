@@ -2,7 +2,8 @@
  "caveat": "no_match means the index holds no match, not that the code is unpublished: two sparse generating sets of one stabilizer group can have non-isomorphic Tanner graphs",
  "counts": {
   "literature": 449,
-  "no_match": 882,
+  "no_match": 868,
+  "not_derived": 14,
   "parameters_only": 255
  },
  "derivation_version": 1,
@@ -127,7 +128,7 @@
    "matches": []
   },
   "102-20-10": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "102-22-9": {
@@ -6281,7 +6282,7 @@
    "matches": []
   },
   "320-80-14": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "322-2-41": {
@@ -6599,7 +6600,7 @@
    "matches": []
   },
   "352-88-16": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "354-18-5": {
@@ -6914,7 +6915,7 @@
    ]
   },
   "364-13-11": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "364-8-32": {
@@ -7148,7 +7149,7 @@
    "matches": []
   },
   "394-13-11": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "394-2-30": {
@@ -7439,7 +7440,7 @@
    "matches": []
   },
   "416-104-17": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "416-36-8": {
@@ -7819,7 +7820,7 @@
    "matches": []
   },
   "448-112-18": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "449-61-3": {
@@ -8354,7 +8355,7 @@
    "matches": []
   },
   "497-13-13": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "498-6-63": {
@@ -9551,7 +9552,7 @@
    "matches": []
   },
   "612-13-15": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "612-4-66": {
@@ -10064,7 +10065,7 @@
    "matches": []
   },
   "646-162-26": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "646-2-101": {
@@ -10337,7 +10338,7 @@
    "matches": []
   },
   "674-168-76": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "674-170-64": {
@@ -10517,7 +10518,7 @@
    "matches": []
   },
   "684-10-90": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "684-12-66": {
@@ -10533,7 +10534,7 @@
    "matches": []
   },
   "684-14-54": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "684-20-40": {
@@ -10565,7 +10566,7 @@
    "matches": []
   },
   "693-13-16": {
-   "bucket": "no_match",
+   "bucket": "not_derived",
    "matches": []
   },
   "696-174-4": {
